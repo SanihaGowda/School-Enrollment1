@@ -1,6 +1,3 @@
-Free Download Source Code "School Enrollment System  "
-
-FIRST Download
 
 1.XAMPP
 
